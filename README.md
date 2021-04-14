@@ -26,6 +26,7 @@ To reporduce the models in our paper, following data can be downloaded
 * [Total energies of hypothetical structures](hypothetical_structure_energies.csv)
 * ICSD crystal structures are not distributed as a part of ICSD license
 * [Relaxed hypothetical crystal structures](relaxed_hypothetical_structures.tar.gz)
+* [Unrelaxed hypothetical structures](unrelaxed_hypothetical_structures.tar.gz)
 
 # Authors
 
