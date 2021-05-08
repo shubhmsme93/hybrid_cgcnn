@@ -21,10 +21,16 @@ Follwoing python packages needs to be installed:
 
 # Data
 
-To reporduce the models in our paper, following data can be downloaded
-* [Total energies of ICSD structures from NRELMatDB databse](nrelmatdb_icsd_energies.csv)
+To reporduce the models in our paper, following data can be downloaded:
+
+* *Total Energy*
+
+* [Total energies of ICSD structures from NRELMatDB databse (materials.nrel.gov)](nrelmatdb_icsd_energies.csv)
 * [Total energies of hypothetical structures](hypothetical_structure_energies.csv)
-* ICSD crystal structures are not distributed as a part of ICSD license
+
+* *Crystal Structures*  
+
+* ICSD crystal structure files cannot be distributed 
 * [Relaxed hypothetical crystal structures](relaxed_hypothetical_structures.tar.gz)
 * [Unrelaxed hypothetical structures](unrelaxed_hypothetical_structures.tar.gz)
 
