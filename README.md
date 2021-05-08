@@ -40,6 +40,11 @@ To reporduce the models in our paper, following data can be downloaded:
 * Peter St. John (Peter.STJohn@nrel.gov)
 * Prashun Gorai (prashun.iitm4@gmail.com)
 
+# Cite
+"A Graph Neural Network for Predicting Energy and Stability of Known and Hypothetical Crystal Structures"
+
+S. Pandey, J. Qu, V. Stevanovic, P. St. John, and P. Gorai, *ChemRxiv* (2021). DOI: [10.26434/chemrxiv.14428865.v1](https://doi.org/10.26434/chemrxiv.14428865.v1)
+
 # License
 
 This package is released under the MIT License.
