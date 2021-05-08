@@ -1,4 +1,4 @@
-# Hybrid CGCNN: Graph Based Neural Network Model to Predict Total Energies of Known and Hypothetical Crystal Structures
+# Hybrid Graph Neural Network for Total Energy Prediction
 
 This package provides following utilities:
 * Predict total energies of crystal strtuctures using a pre-trained model
